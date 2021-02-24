@@ -1,0 +1,1 @@
+This folder contains files related to my project "Spam-text-classifier" which I created during internship sponsored by Microsoft.
